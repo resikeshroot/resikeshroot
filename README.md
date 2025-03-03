@@ -51,7 +51,7 @@ const ResikeshMR = {
 - 🏋️‍♂️ Focused on fitness.
 - 📚 Always learning, whether it's IT, fitness, or entrepreneurship!
 
-> Love IT and technology, but not the IT job.  
+> Love IT and technology.  
 🐱‍💻 Enjoy working with IT when I feel inspired!
 
 <script type="application/ld+json">
